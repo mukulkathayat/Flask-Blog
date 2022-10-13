@@ -18,4 +18,5 @@ Post something (WTForms)
 Error handling
 -Custom error pages
 
-And much more.
+Currently working to add like functionality and some minor updates.
+Stay tuned.
